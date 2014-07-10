@@ -5,7 +5,7 @@ Phylogeny Organizer of Diversity is a FREE and OpenSource software that open a w
 
 This program returns a .fasta (clear wordpad) file not aligned and a .txt (diversity wordpad) file with a diversity analysis.
 
-It have a command line interface called 454
+It have a command line interface called 454 S.A. CLI
 
 ## Installation
 
